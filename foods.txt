@@ -1,0 +1,10 @@
+Food Item	Energy	Protein
+		
+Almond	        201 	5
+Firms Tofu	101	2
+Hummus	        709     8       
+Peanut Butter	2580	10
+Tahini	        2760	15
+Butter Beans	384	7
+Lentils	        290	1
+Almond Milk	130	6
